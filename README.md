@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/e6c4b09c-f4e2-462a-836c-1e9cb213f9a3" />
+<img width="964" height="581" alt="Task Manager 8_13_2025 1_33_12 PM" src="https://github.com/user-attachments/assets/7d4e2869-9761-487f-824d-e7537a89042a" />
 
 
 ## Getting Started
