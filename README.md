@@ -7,24 +7,14 @@
 This is a simple Task Manager application built using Java. It allows users to manage their tasks efficiently by adding, editing, marking as completed, or deleting tasks. The application also provides customization options for the user interface.
 
 ## Features
-- **Task Management:**
-  - Add new tasks with titles, descriptions, priorities, statuses, and due dates.
-  - Edit existing tasks.
-  - Mark tasks as completed.
-  - Delete tasks.
-- **Priority Levels:**
-  - Tasks can be assigned priorities such as HIGH, MEDIUM, or LOW.
-- **Status Tracking:**
-  - Tasks can have statuses like TO_DO, IN_PROGRESS, or COMPLETED.
-- **Due Dates:**
-  - Set deadlines for tasks to keep track of important dates.
-- **Customizable UI:**
-  - Adjust font size and color for better readability.
-- **Persistence:**
-  - Task data is stored in a database (`tasks.db`) for long-term storage.
-- **Build and Deployment:**
-  - Includes batch scripts for building JAR and EXE files.
-  - Uses Maven for dependency management and build automation.
+- ✅ **Task Management**: Add, edit, complete, and delete tasks.
+- 📌 **Priority Levels**: Set HIGH, MEDIUM, or LOW priority.
+- 🏷️ **Status Tracking**: TO_DO, IN_PROGRESS, COMPLETED.
+- 📅 **Due Dates**: Assign deadlines to tasks.
+- 🎨 **Customizable UI**: Change font size and color via Settings.
+- 💾 **Local Data Storage**: Tasks saved in `tasks.db` (SQLite).
+- ⚙️ **Easy Build & Run**: Use `compile_run.bat` to compile and launch.
+- 📦 **Portable Output**: Build JAR or EXE for standalone use.
 
 ## Screenshots
 
@@ -48,7 +38,9 @@ This is a simple Task Manager application built using Java. It allows users to m
    ```bash
    git clone https://github.com/yourusername/task-manager.git
    cd task-manager
-
+2.**Run the Compile & Launch Script:**
+    ```bash
+    compile_run.bat
 ## Getting Started
 
 ### Prerequisites
@@ -70,11 +62,23 @@ This is a simple Task Manager application built using Java. It allows users to m
    - Navigate to the releases section of this repository.
    - Download the latest `.exe` file (e.g., `TaskManager.exe`).
 
-2. **Run the Application:**
-   - Double-click the `.exe` file to launch the Task Manager.
-
 #### For Developers:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/yourusername/task-manager.git
    cd task-manager
+2. **Run the Compile & Launch Script:**
+   ```bash
+   compile_run.bat
+
+#### 🤝 Contributing
+Feel free to fork, report bugs, or suggest improvements via pull requests.
+
+#### 📄 License
+This project is open-source and available under the Apache License 2.0.
+
+#### 📧 Contact
+Have questions or feedback?
+
+GitHub: RavinduGit21
+Gmail: ravindushehara1234@gmail.com
